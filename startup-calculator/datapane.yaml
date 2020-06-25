@@ -24,8 +24,6 @@ parameters:
     type: integer
     required: True
     description: Your current weekly growth rate (in %)
-    min: 0
-    max: 100
   - name: initial_revenue
     type: integer
     required: True
