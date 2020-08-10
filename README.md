@@ -11,4 +11,4 @@ This script pulls data from Yahoo Finance using `yfinance`, calculates the zscor
 This script takes a Google Search query, pulls data from Google Trends using `PyTrends`, and plots it's performance over time. It also plots how the interest in the term is geographically distributed by state.
 
 ## Mapping Music With Every Noise and Plotly
-[This report](https://datapane.com/carlos_valcarcel/reports/mapping_music/) uses Folium to create a geographic representation of music markets. Find the source code for this notebook [here](https://mybinder.org/v2/gh/khuyentran1401/Music-Marketing/b4b3c0eb37a2f1e9bc129d7aa2c1a4892f657f3f?filepath=music_marketing%2Ftargeting.ipynb)
+[This report](https://datapane.com/carlos_valcarcel/reports/mapping_music/) uses Folium to create a geographic representation of music markets. Run the source code for this script [here](https://mybinder.org/v2/gh/khuyentran1401/Music-Marketing/b4b3c0eb37a2f1e9bc129d7aa2c1a4892f657f3f?filepath=music_marketing%2Ftargeting.ipynb)
