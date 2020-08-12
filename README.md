@@ -16,3 +16,6 @@ This script takes a Google Search query, pulls data from Google Trends using `Py
 ## Principal Component Analysis and SVM in a Pipeline with Python
 [This report](https://datapane.com/saptashwa/reports/svm_ee952f44/) uses Seaborn to visualize SVM. Run the source code for this script [here](https://mybinder.org/v2/gh/khuyentran1401/Machine_Learning/ce7fae1c5d9fab8eefcd624674c10afaa1704bbd?filepath=machine_learning%2FSVM_Decision_Boundary%2FDecision_Boundary_SVM.ipynb)
 
+## Exploring the Tokyo Neighbourhoods
+[This report](https://datapane.com/saptashwa/reports/tokyo_a1fc6bd4/) visualizes restaurants in Tokyo neighborhood using Seaborn, Folium. Run the source code for this script [here](https://mybinder.org/v2/gh/khuyentran1401/Coursera_Capstone/045bdda48e3e5c947e4f73406de0d877ac741aa2?filepath=Week5%2FCapstone_Week4_Part2.ipynb)
+
