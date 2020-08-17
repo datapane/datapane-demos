@@ -5,6 +5,7 @@ parameters:
   - name: query
     description: The google query to analyse
     type: string
+    default: food
     required: True
 
 requirements:
