@@ -1,4 +1,4 @@
-# My Startup calculator
+# Finance Forecasting Model
 This script forecasts your future finances based on current cash position, growth rate, revenue, and costs.
 
 Using pandas, it tries to answer two questions:
@@ -10,5 +10,3 @@ Using pandas, it tries to answer two questions:
 
 It also uses Altair to plot [Default alive / Default dead](http://paulgraham.com/aord.html): the growth rate you will need to achieve to never die. This plot is inspired by a [similar one](http://growth.tlb.org/#) by Trevor Blackwell.
 
->Warning: because calculating any kind of growth rate won't work if the starting revenue is 0, it uses 100 as a minimum start, which may throw off your calculations.
- datapane

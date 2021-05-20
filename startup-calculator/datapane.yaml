@@ -1,11 +1,6 @@
-# Datapane config - see https://docs.datapane.com/tutorials/deploying-a-script#configuration
-script: calculator.ipynb
-# Script name (a combination of lower case letters, numbers, and dashes - must be unique to user)
-name: startup_calculator
+script: financial_model.py 
+name: Finance Model 
 repo: https://github.com/datapane/gallery/tree/master/startup-calculator
-# Script title
-title: Startup Burn Calculator 
-# Script parameters
 parameters: 
   - name: current_cash
     description: The amount of cash you have in the bank
@@ -41,13 +36,3 @@ parameters:
   - name: cash_injection_offset 
     type: integer
     default: 1
-
-## Additional files to include and exlcude (can use glob syntax)
-# include:
-# -
-# exclude:
-# -
-
-## Python packages required for the script
-#requirements:
-#  -
